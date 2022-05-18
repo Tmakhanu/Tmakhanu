@@ -10,7 +10,5 @@
 I have always been fascinated from a young age, by the power of technology and its evolvement in all of the
 world's dominant sectors, from health research discoveries to information communication. I therefore took an
 initiative to deepen my knowledge in information technology.
-With my interest and expertise, I am confident that am able to come up with innovative solutions to some of my
-community's everyday problems. 
 </body>
 </html>
